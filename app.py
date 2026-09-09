@@ -1064,13 +1064,19 @@ st.markdown(
 )
 
 
-# =========================================================
+# ============================================================
 # FOOTER
-# =========================================================
+# ============================================================
 
 st.markdown("---")
 
 st.caption(
+    "Developed by Jaydip Sen | "
     "Bullwhip Effect Simulator | "
     "Operations Management / Supply Chain Management"
+)
+
+st.caption(
+    "© 2026 Jaydip Sen. All rights reserved. | "
+    "For academic, educational, and research purposes."
 )
